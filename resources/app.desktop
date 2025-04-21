@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Binder
+Comment=A Bitmap Non-Destructive Editor
+Type=Application
+Icon=com.github.cherryband.binder
+Exec=binder %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
